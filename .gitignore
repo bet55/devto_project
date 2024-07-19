@@ -1,2 +1,11 @@
 .venv
 .idea
+.env
+cache
+flake-report
+test.json
+requests.http
+queries.sql
+pyproject.toml
+notebook
+identifier.sqlite
